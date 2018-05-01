@@ -7,4 +7,24 @@ canvas
 {
 	display:block;
 	background-color:#FFF;
+
+}
+div
+{
+	position:absolute;
+	top:40%;
+	left:46%;
+	font-size:24px;
+	text-align:center;
+	line-height:2;
+	color:#FFF;
+	display:none;
+}
+div button
+{
+	padding:10px;
+	color:#FFF;
+	background-color:#000;
+	cursor:pointer;
+	border:none;
 }
